@@ -1,7 +1,6 @@
 {
-    "user":
-    [
-        {
+  "user": [
+     {
             "ID": "1",
             "Name": "Tống Mạnh Đạt",
             "Email": "tmd2212@gmail.com",
@@ -10,5 +9,8 @@
             "Role": "0",
             "Address": "số 7 ngách 31 ngõ 447"
         }
-    ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
