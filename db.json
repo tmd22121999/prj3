@@ -2,12 +2,12 @@
   "user": [
      {
             "ID": "1",
-            "Name": "Tống Mạnh Đạt",
-            "Email": "tmd2212@gmail.com",
-            "Password": "admin",
-            "Phone": "0913321784",
+            "Name": "tên",
+            "Email": "email@gmail.com",
+            "Password": "pas",
+            "Phone": "123456789",
             "Role": "0",
-            "Address": "số 7 ngách 31 ngõ 447"
+            "Address": "địa chỉ"
         }
   ],
 }
